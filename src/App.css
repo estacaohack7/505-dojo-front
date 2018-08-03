@@ -1,0 +1,45 @@
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.botaoinicial{
+  border-radius: 30px;
+  color: blue;
+  width: 50vw;
+  height: 10vh;
+  border: none;
+  background-color: orange;
+  color: black;
+  font-size: 24pt;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+  justify-content: center;
+  display: flex;
+}
+
+button{
+  border-radius: 30px;
+  color: blue;
+  width: 50vw;
+  height: 10vh;
+  border: none;
+  background-color: orange;
+  color: black;
+  font-size: 24pt;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+  cursor: pointer;
+}
+
+.input{
+  display: flex;
+  margin: 0px
+  
+}
+/* 
+button {
+  border-radius:30px;
+  color: blue;
+  width: 100px;
+} */
